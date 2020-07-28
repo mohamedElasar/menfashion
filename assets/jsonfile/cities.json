@@ -1,0 +1,25 @@
+{
+    "Alexandria":[{
+        "keyword": "si",
+        "id":1,
+        "autocompleteterm":"sidigaber"
+    },{
+        "keyword":"abo",
+        "id":2,
+        "autocompleteterm":"abokir"
+    }],
+
+    "Mnofia":[{
+        "keyword": "sh",
+        "id":1,
+        "autocompleteterm":"shbein alkom"
+    },{
+        "keyword":"ber",
+        "id":2,
+        "autocompleteterm":"berket alsabaa"
+    }]
+
+
+
+    
+}
