@@ -17,7 +17,8 @@ import './providers/pieces.dart';
 import './providers/new_item_list.dart';
 import './models/Shop.dart';
 
-import './widgets/GovCard.dart';
+// import './widgets/GovCard.dart';
+//test
 
 void main() => runApp(MyApp());
 
